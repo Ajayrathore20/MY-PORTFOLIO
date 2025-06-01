@@ -1,2 +1,20 @@
-# MY-PORTFOLIO
-THIS IS MY PORTFOLIO
+# Portfolio - 
+
+Built with HTML, CSS and Vanilla Js
+
+- Link:    [Ajay Portfolio](https://ajayrathore20.github.io/MY-PORTFOLIO/)
+- Twitter: [@Ajay_codes](https://x.com/Rathore_5Ajay)
+
+![portfolio site screenshot](./Screenshot_Ajay.jpeg)
+
+## License
+© 2025 Ajay Rathore. All Rights Reserved.
+
+This website and all of its contents, including but not limited to the design, code, structure, layout, text, graphics, and any associated files or assets, are the exclusive intellectual property of Ajay Rathore.
+
+Unauthorized copying, reproduction, modification, reverse engineering, redistribution, or use of any part of this website — whether in whole or in part — is strictly prohibited.
+No part of this website, including its HTML, CSS, JavaScript, React components, or backend logic, may be reused or repurposed without prior written consent from the owner.
+
+Any unauthorized use will be considered a violation of copyright law, and appropriate legal action may be taken.
+
+This copyright statement is legally binding and is enforced under applicable intellectual property laws.
